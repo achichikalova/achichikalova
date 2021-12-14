@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tonya
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Web Development in Lighthouse Labs.
+- 👋 Hi, I’m Antonina
+- ✨ I love coding
+- 🌱 Recently graduated as a Full Stack Developer from Lighthouse Labs.
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/achichikalova/).
 
 <!---
